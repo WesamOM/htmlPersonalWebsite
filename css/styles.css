@@ -1,0 +1,23 @@
+body {
+    background-color: #D6E6F2;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 25%;
+}
+
+h1 {
+    color: crimson;
+}
+
+h3 {
+    color: crimson;
+}
+
+.hobbies {
+    color: green;
+}
